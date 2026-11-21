@@ -6,5 +6,5 @@ A desktop app built with Python, Tkinter and CustomTkinter. It lets you add, upd
 
 ```
 pip install customtkinter
-python student_app.py
+python stud_reg.py
 ```
